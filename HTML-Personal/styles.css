@@ -1,0 +1,21 @@
+body {
+  background-color: lightgrey;
+}
+
+h1{
+  color: Tomato;
+}
+h2{
+  color: Tomato;
+}
+h3{
+  color: Tomato;
+}
+h4{
+  color: Tomato;
+}
+img {
+  height: 250px;
+  width: 250px;
+  border-radius: 70%;
+}
